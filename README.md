@@ -10,5 +10,3 @@ The easiest and fastest way to login discord tokens
 
 * And then write 2. code which below
 
-
-7434200461:AAGzXxxwxx_k_qWB1PdZphN7MsGWAlXRYpE
